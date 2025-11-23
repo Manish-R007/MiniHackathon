@@ -23,20 +23,37 @@ export const ISSUE_STATUS = {
 };
 
 export const DEPARTMENTS = {
-  IT: 'Information Technology',
-  maintenance: 'Maintenance',
-  admin: 'Administration',
-  facilities: 'Facilities',
-  academic: 'Academic Affairs'
+  CS : 'CSE',
+  AI : 'AIML',
+  CDS : 'CDS',
+  EC : 'EC',
+  IS : 'IS',
+  MCA : 'MCA',
+  MBA : 'MBA',
+  ETE : 'ETE',
+  EEE : 'EEE',
+  CIVIL : 'Civil',
+  MECH : 'Mechanical',
+  RAI : 'RAI',
+  BCOM : 'Bcom',
+  BBA : 'BBA',
+  BCA  :'BCA'
 };
 
 export const BUILDINGS = [
-  'Main Building',
-  'Science Building',
-  'Library',
-  'Student Center',
-  'Engineering Building',
-  'Arts Building',
-  'Sports Complex',
-  'Administration Building'
+  'CSE',
+  'AIML',
+  'CDS',
+  'EC',
+  'IS',
+  'MCA',
+  'MBA',
+  'ETE',
+  'EEE',
+  'Civil',
+  'Mechanical',
+  'RAI',
+  'Bcom',
+  'BBA',
+  'BCA'
 ];
